@@ -5,6 +5,7 @@
 - 📫 Você pode me achar entre meu grupo de amigos ou redes sociais (@william_dsb)
 - 😄 Pronomes:Ele/Eles
 - ⚡ Fato Interessante:Sou um cara mais reservado porem gosto de me socializar
+- Linkedin:https://www.linkedin.com/in/william-de-souza-bezerra-48663a339/
 
 <!---
 Will504-prog/Will504-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

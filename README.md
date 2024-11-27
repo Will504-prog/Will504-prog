@@ -6,6 +6,7 @@
 - 😄 Pronomes:Ele/Eles
 - ⚡ Fato Interessante:Sou um cara mais reservado porem gosto de me socializar
 - Linkedin:https://www.linkedin.com/in/william-de-souza-bezerra-48663a339/
+- Sobre Mim:file:///C:/Users/willi/OneDrive/Documentos/Programa%C3%A7%C3%A3o/Cesar/ICC/HTML/portifolio/port.html
 
 <!---
 Will504-prog/Will504-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
